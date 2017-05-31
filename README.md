@@ -12,8 +12,10 @@ These commands explain ideology and concepts.
 | ```]anarchism```   | General Info about Anarchism   |
 | ```]ancom```  | General Info about Anarcho-Communism   |
 | ```]anfem```   | General Info about Anarcha-Feminism   |
+| ```]ansyn```   | General Info about Anarcho-Syndicalism   |
 | ```]communism```   | General Info about Communism   |
 | ```]diamat```   | General Info about Dialectical materialism   |
+| ```]green```   | General Info about Green Anarchism   |
 | ```]marxism```  | General Info about Marxism   |
 | ```]mutualism```  | General Info about Mutualism  |
 | ```]situationism```   | General Info about Situationism   |
@@ -39,6 +41,7 @@ These commands explain ideology and concepts.
 | ```]lum```   | Dyer Lum   |
 | ```]makhno```   | Nestor Makhno   |
 | ```]malatesta```   | Errico Malatesta   |
+| ```]Meltzer```   | Albert Meltzer   |
 | ```]most```   | Johann Most   |
 | ```]perlman```  | Fredy Perlman   |
 | ```]proudhon```  | Pierre Proudhon   |
