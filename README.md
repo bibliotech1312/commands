@@ -75,5 +75,7 @@ These commands explain ideology and concepts.
 | ```]lukacs```   | György Lukács   |
 | ```]luxemburg```  | Rosa Luxemburg   |
 | ```]mandel```  | Ernest Mandel   |
+| ```]marx```  | Karl Marx   |
 | ```]pankhurst```  | Sylvia Pankhurst   |
 | ```]pannekoek```   | Antonie Pannekoek   |
+| ```]trotsky```   | Leon Trotsky   |
