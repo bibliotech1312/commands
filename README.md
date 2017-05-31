@@ -19,30 +19,58 @@ These commands explain ideology and concepts.
 | ```]situationism```   | General Info about Situationism   |
 | ```]socialism```   | General Info about Socialism   |
 
-## Authors
+## People
 
 ### Anarchism
 
 | Command | Function |
 | -------- | -------- |
-| ```]berkman```   | Alexander Berkman Essential Readings   |
-| ```]bonanno```  | Alfredo M. Bonanno Essential Readings   |
-| ```]bookchin```   | Murray Bookchin Essential Readings   |
-| ```]dejacque```   | Joseph Déjacque Essential Readings   |
-| ```]chomsky```  | Noam Chomsky Essential Readings   |
-| ```]durruti```   | Durruti Essential Readings   |
-| ```]foucault```   | Michel Foucault Essential Readings   |
-| ```]goldman```  | Emma Goldman Essential Readings   |
-| ```]goodwin```  | William Godwin Essential Readings   |
-| ```]haywood```  | Bill Haywood Essential Readings   |
-| ```]kropotkin```   | Peter Kropotkin Essential Readings   |
-| ```]lum```   | Dyer Lum Essential Readings   |
-| ```]makhno```   | Nestor Makhno Essential Readings   |
-| ```]malatesta```   | Errico Malatesta Essential Readings   |
-| ```]most```   | Johann Most Essential Readings   |
-| ```]perlman```  | Fredy Perlman Essential Readings   |
-| ```]proudhon```  | Pierre Proudhon Essential Readings   |
-| ```]rocker```  | Rudolf Rocker Essential Readings   |
-| ```]stirner```   | Max Stirner Essential Readings   |
-| ```]tolstoy```  | Leo Tolstoy Essential Readings   |
-| ```]tucker```   | Benjamin Tucker Essential Readings   |
+| ```]berkman```   | Alexander Berkman   |
+| ```]bonanno```  | Alfredo M. Bonanno   |
+| ```]bookchin```   | Murray Bookchin   |
+| ```]dejacque```   | Joseph Déjacque   |
+| ```]chomsky```  | Noam Chomsky   |
+| ```]durruti```   | Buenaventura Durruti   |
+| ```]foucault```   | Michel Foucault   |
+| ```]goldman```  | Emma Goldman   |
+| ```]goodwin```  | William Godwin   |
+| ```]haywood```  | Bill Haywood   |
+| ```]kropotkin```   | Peter Kropotkin   |
+| ```]lum```   | Dyer Lum   |
+| ```]makhno```   | Nestor Makhno   |
+| ```]malatesta```   | Errico Malatesta   |
+| ```]most```   | Johann Most   |
+| ```]perlman```  | Fredy Perlman   |
+| ```]proudhon```  | Pierre Proudhon   |
+| ```]rocker```  | Rudolf Rocker   |
+| ```]stirner```   | Max Stirner   |
+| ```]tolstoy```  | Leo Tolstoy   |
+| ```]tucker```   | Benjamin Tucker   |
+| ```]volin```  | Volin   |
+| ```]voltairine```   | Voltairine de Cleyre   |
+
+
+
+### Communism
+
+| Command | Function |
+| -------- | -------- |
+| ```]althusser```   | Louis Althusser   |
+| ```]benjamin```  | Walter Benjamin   |
+| ```]bordiga```   | Amadeo Bordiga   |
+| ```]cliff```   | Tony Cliff   |
+| ```]dauve```  | Gilles Dauvé   |
+| ```]davis```   | Mike Davis   |
+| ```]debord```   | Guy Debord   |
+| ```]dupont```  | Monsieur Dupont   |
+| ```]engels```  | Friedrich Engels   |
+| ```]fanon```  | Frantz Fanon   |
+| ```]gramsci```   | Antonio Gramsci   |
+| ```]harvey```   | David Harvey   |
+| ```]kautsky```   | Karl Kautsky   |
+| ```]lenin```   | Vladimir Lenin   |
+| ```]lukacs```   | György Lukács   |
+| ```]luxemburg```  | Rosa Luxemburg   |
+| ```]mandel```  | Ernest Mandel   |
+| ```]pankhurst```  | Sylvia Pankhurst   |
+| ```]pannekoek```   | Antonie Pannekoek   |
