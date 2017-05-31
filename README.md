@@ -74,8 +74,11 @@ These commands explain ideology and concepts.
 | ```]lenin```   | Vladimir Lenin   |
 | ```]lukacs```   | György Lukács   |
 | ```]luxemburg```  | Rosa Luxemburg   |
+| ```]mao```  | Mao Zedong   |
 | ```]mandel```  | Ernest Mandel   |
 | ```]marx```  | Karl Marx   |
 | ```]pankhurst```  | Sylvia Pankhurst   |
 | ```]pannekoek```   | Antonie Pannekoek   |
+| ```]posadas```  | J. Posadas   |
 | ```]trotsky```   | Leon Trotsky   |
+| ```]zizek```   | Slavoj Žižek   |
