@@ -58,6 +58,7 @@ These commands explain ideology and concepts.
 
 | Command | Function |
 | -------- | -------- |
+| ```]adorno```   | Theodor W. Adorno   |
 | ```]althusser```   | Louis Althusser   |
 | ```]benjamin```  | Walter Benjamin   |
 | ```]bordiga```   | Amadeo Bordiga   |
@@ -82,3 +83,17 @@ These commands explain ideology and concepts.
 | ```]posadas```  | J. Posadas   |
 | ```]trotsky```   | Leon Trotsky   |
 | ```]zizek```   | Slavoj Žižek   |
+
+
+### Socialism
+
+| Command | Function |
+| -------- | -------- |
+| ```]bebel```   | August Bebel   |
+| ```]gorter```  | Herman Gorter   |
+| ```]liebknecht```   | Wilhelm Liebknecht   |
+| ```]lih```   | Lars T Lih   |
+| ```]orwell```  | George Orwell   |
+| ```]russell```   | Bertrand Russell   |
+| ```]thompson```   | E.P. Thompson   |
+| ```]veblen```  | Thorstein Veblen   |
