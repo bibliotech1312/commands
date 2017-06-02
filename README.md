@@ -1,6 +1,6 @@
 # BilioTech Commands
 
-This page contains the commands you can use. All commands except for ```]Deleonism``` and ```]Trotskyism``` are lower case. 
+This page contains the commands you can use. All commands lower case except for the ideology commands. 
 
 ## General Info
 
@@ -10,26 +10,26 @@ These commands explain ideology and theory.
 
 | Command | Function |
 | -------- | -------- |
-| ```]anarchism```   | General Info about Anarchism   |
-| ```]ancom```  | General Info about Anarcho-Communism   |
-| ```]anfem```   | General Info about Anarcha-Feminism   |
-| ```]anqueer```   | General Info about Anarcha-Queer   |
-| ```]ansyn```   | General Info about Anarcho-Syndicalism   |
-| ```]autonomism```   | General Info about Autonomism   |
-| ```]bordigism```   | General Info about Bordigism   |
-| ```]communism```   | General Info about Communism   |
+| ```]Anarchism```   | General Info about Anarchism   |
+| ```]Ancom```  | General Info about Anarcho-Communism   |
+| ```]Anfem```   | General Info about Anarcha-Feminism   |
+| ```]Anqueer```   | General Info about Anarcha-Queer   |
+| ```]Ansyn```   | General Info about Anarcho-Syndicalism   |
+| ```]Autonomism```   | General Info about Autonomism   |
+| ```]Bordigism```   | General Info about Bordigism   |
+| ```]Communism```   | General Info about Communism   |
 | ```]Deleonism```   | General Info about De Leonism   |
-| ```]green```   | General Info about Green Anarchism   |
-| ```]insurrection```   | General Info about Insurrectionary Anarchism  |
-| ```]leftcom```   | General Info about Left Communism  |
-| ```]luxemburgism```   | General Info about Luxemburgism  |
-| ```]marxism```  | General Info about Marxism   |
-| ```]mutualism```  | General Info about Mutualism  |
-| ```]postleft```  | General Info about Post-Left Anarchism  |
-| ```]situationism```   | General Info about Situationism   |
-| ```]socialism```   | General Info about Socialism   |
-| ```]synthesist```   | General Info about Synthesis Anarchism   |
-| ```]tranhumanism```   | General Info about Anarcho-Transhumanism   |
+| ```]Green```   | General Info about Green Anarchism   |
+| ```]Insurrection```   | General Info about Insurrectionary Anarchism  |
+| ```]Leftcom```   | General Info about Left Communism  |
+| ```]Luxemburgism```   | General Info about Luxemburgism  |
+| ```]Marxism```  | General Info about Marxism   |
+| ```]Mutualism```  | General Info about Mutualism  |
+| ```]Postleft```  | General Info about Post-Left Anarchism  |
+| ```]Situationism```   | General Info about Situationism   |
+| ```]Socialism```   | General Info about Socialism   |
+| ```]Synthesist```   | General Info about Synthesis Anarchism   |
+| ```]Tranhumanism```   | General Info about Anarcho-Transhumanism   |
 | ```]Trotskyism```   | General Info about Trotskyism   |
 
 ## Theory
