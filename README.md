@@ -80,6 +80,7 @@ These commands explain ideology and concepts.
 | ```]dauve```  | Gilles Dauvé   |
 | ```]davis```   | Mike Davis   |
 | ```]debord```   | Guy Debord   |
+| ```]deleon```   | Daniel De Leon   |
 | ```]dupont```  | Monsieur Dupont   |
 | ```]engels```  | Friedrich Engels   |
 | ```]fanon```  | Frantz Fanon   |
