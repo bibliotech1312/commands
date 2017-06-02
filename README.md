@@ -12,14 +12,21 @@ These commands explain ideology and concepts.
 | ```]anarchism```   | General Info about Anarchism   |
 | ```]ancom```  | General Info about Anarcho-Communism   |
 | ```]anfem```   | General Info about Anarcha-Feminism   |
+| ```]anqueer```   | General Info about Anarcha-Queer   |
 | ```]ansyn```   | General Info about Anarcho-Syndicalism   |
 | ```]communism```   | General Info about Communism   |
 | ```]diamat```   | General Info about Dialectical materialism   |
 | ```]green```   | General Info about Green Anarchism   |
+| ```]insurrection```   | General Info about Insurrectionary Anarchism  |
 | ```]marxism```  | General Info about Marxism   |
 | ```]mutualism```  | General Info about Mutualism  |
+| ```]permrev```  | General Info about Permanent Revolution  |
+| ```]postleft```  | General Info about Post-Left Anarchism  |
 | ```]situationism```   | General Info about Situationism   |
 | ```]socialism```   | General Info about Socialism   |
+| ```]synthesist```   | General Info about Synthesis Anarchism   |
+| ```]tranhumanism```   | General Info about Anarcho-Transhumanism   |
+| ```]trotskyism```   | General Info about Trotskyism   |
 
 ## People
 
@@ -33,6 +40,7 @@ These commands explain ideology and concepts.
 | ```]dejacque```   | Joseph Déjacque   |
 | ```]chomsky```  | Noam Chomsky   |
 | ```]durruti```   | Buenaventura Durruti   |
+| ```]faure```   | Sébastien Faure   |
 | ```]foucault```   | Michel Foucault   |
 | ```]goldman```  | Emma Goldman   |
 | ```]goodwin```  | William Godwin   |
@@ -46,6 +54,7 @@ These commands explain ideology and concepts.
 | ```]perlman```  | Fredy Perlman   |
 | ```]proudhon```  | Pierre Proudhon   |
 | ```]rocker```  | Rudolf Rocker   |
+| ```]reclus```  | Élisée Reclus   |
 | ```]stirner```   | Max Stirner   |
 | ```]tolstoy```  | Leo Tolstoy   |
 | ```]tucker```   | Benjamin Tucker   |
@@ -60,6 +69,7 @@ These commands explain ideology and concepts.
 | -------- | -------- |
 | ```]adorno```   | Theodor W. Adorno   |
 | ```]althusser```   | Louis Althusser   |
+| ```]baudrillard```  | Jean Baudrillard   |
 | ```]benjamin```  | Walter Benjamin   |
 | ```]bordiga```   | Amadeo Bordiga   |
 | ```]cliff```   | Tony Cliff   |
