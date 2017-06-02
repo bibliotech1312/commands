@@ -1,6 +1,6 @@
 # BilioTech Commands
 
-This page contains the commands you can use. 
+This page contains the commands you can use. All commands except for ```]Deleonism``` and ```]Trotskyism``` are lower case. 
 
 ## General Info
 
@@ -18,6 +18,7 @@ These commands explain ideology and theory.
 | ```]autonomism```   | General Info about Autonomism   |
 | ```]bordigism```   | General Info about Bordigism   |
 | ```]communism```   | General Info about Communism   |
+| ```]Deleonism```   | General Info about De Leonism   |
 | ```]green```   | General Info about Green Anarchism   |
 | ```]insurrection```   | General Info about Insurrectionary Anarchism  |
 | ```]leftcom```   | General Info about Left Communism  |
@@ -29,7 +30,7 @@ These commands explain ideology and theory.
 | ```]socialism```   | General Info about Socialism   |
 | ```]synthesist```   | General Info about Synthesis Anarchism   |
 | ```]tranhumanism```   | General Info about Anarcho-Transhumanism   |
-| ```]trotskyism```   | General Info about Trotskyism   |
+| ```]Trotskyism```   | General Info about Trotskyism   |
 
 ## Theory
 
@@ -60,7 +61,7 @@ These commands explain ideology and theory.
 | ```]lum```   | Dyer Lum   |
 | ```]makhno```   | Nestor Makhno   |
 | ```]malatesta```   | Errico Malatesta   |
-| ```]Meltzer```   | Albert Meltzer   |
+| ```]meltzer```   | Albert Meltzer   |
 | ```]most```   | Johann Most   |
 | ```]perlman```  | Fredy Perlman   |
 | ```]proudhon```  | Pierre Proudhon   |
