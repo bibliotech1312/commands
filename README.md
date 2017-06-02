@@ -14,10 +14,14 @@ These commands explain ideology and concepts.
 | ```]anfem```   | General Info about Anarcha-Feminism   |
 | ```]anqueer```   | General Info about Anarcha-Queer   |
 | ```]ansyn```   | General Info about Anarcho-Syndicalism   |
+| ```]autonomism```   | General Info about Autonomism   |
+| ```]bordigism```   | General Info about Bordigism   |
 | ```]communism```   | General Info about Communism   |
 | ```]diamat```   | General Info about Dialectical materialism   |
 | ```]green```   | General Info about Green Anarchism   |
 | ```]insurrection```   | General Info about Insurrectionary Anarchism  |
+| ```]leftcom```   | General Info about Left Communism  |
+| ```]luxemburgism```   | General Info about Luxemburgism  |
 | ```]marxism```  | General Info about Marxism   |
 | ```]mutualism```  | General Info about Mutualism  |
 | ```]permrev```  | General Info about Permanent Revolution  |
