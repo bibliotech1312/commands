@@ -1,6 +1,8 @@
 # BilioTech Commands
 
-This page contains the commands you can use. All commands lower case except for the ideology commands. 
+This page contains the commands you can use. 
+
+**All commands lower case except for the ideology commands. 
 
 ## General Info
 
