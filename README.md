@@ -2,7 +2,7 @@
 
 This page contains the commands you can use. 
 
-**All commands lower case except for the ideology commands. 
+**All commands lower case except for the ideology commands.**
 
 ## General Info
 
