@@ -4,11 +4,12 @@ This page contains the commands you can use.
 
 ## General Info
 
-These commands explain ideology and concepts.
+These commands explain ideology and theory.
+
+## Ideology
 
 | Command | Function |
 | -------- | -------- |
-| ```]alienation```   | General Info about Alienation   |
 | ```]anarchism```   | General Info about Anarchism   |
 | ```]ancom```  | General Info about Anarcho-Communism   |
 | ```]anfem```   | General Info about Anarcha-Feminism   |
@@ -17,20 +18,26 @@ These commands explain ideology and concepts.
 | ```]autonomism```   | General Info about Autonomism   |
 | ```]bordigism```   | General Info about Bordigism   |
 | ```]communism```   | General Info about Communism   |
-| ```]diamat```   | General Info about Dialectical materialism   |
 | ```]green```   | General Info about Green Anarchism   |
 | ```]insurrection```   | General Info about Insurrectionary Anarchism  |
 | ```]leftcom```   | General Info about Left Communism  |
 | ```]luxemburgism```   | General Info about Luxemburgism  |
 | ```]marxism```  | General Info about Marxism   |
 | ```]mutualism```  | General Info about Mutualism  |
-| ```]permrev```  | General Info about Permanent Revolution  |
 | ```]postleft```  | General Info about Post-Left Anarchism  |
 | ```]situationism```   | General Info about Situationism   |
 | ```]socialism```   | General Info about Socialism   |
 | ```]synthesist```   | General Info about Synthesis Anarchism   |
 | ```]tranhumanism```   | General Info about Anarcho-Transhumanism   |
 | ```]trotskyism```   | General Info about Trotskyism   |
+
+## Theory
+
+| Command | Function |
+| -------- | -------- |
+| ```]alienation```   | General Info about Alienation   |
+| ```]diamat```   | General Info about Dialectical materialism   |
+| ```]permrev```  | General Info about Permanent Revolution  |
 
 ## People
 
