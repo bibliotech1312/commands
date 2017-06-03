@@ -94,6 +94,7 @@ These commands explain ideology and theory.
 | ```]dupont```  | Monsieur Dupont   |
 | ```]engels```  | Friedrich Engels   |
 | ```]fanon```  | Frantz Fanon   |
+| ```]gorter```  | Herman Gorter   |
 | ```]gramsci```   | Antonio Gramsci   |
 | ```]harvey```   | David Harvey   |
 | ```]kautsky```   | Karl Kautsky   |
@@ -106,6 +107,7 @@ These commands explain ideology and theory.
 | ```]pankhurst```  | Sylvia Pankhurst   |
 | ```]pannekoek```   | Antonie Pannekoek   |
 | ```]posadas```  | J. Posadas   |
+| ```]thompson```   | E.P. Thompson   |
 | ```]trotsky```   | Leon Trotsky   |
 | ```]zizek```   | Slavoj Žižek   |
 
@@ -115,10 +117,9 @@ These commands explain ideology and theory.
 | Command | Function |
 | -------- | -------- |
 | ```]bebel```   | August Bebel   |
-| ```]gorter```  | Herman Gorter   |
+| ```]debs```  | Eugene V. Debs   |
 | ```]liebknecht```   | Wilhelm Liebknecht   |
 | ```]lih```   | Lars T Lih   |
 | ```]orwell```  | George Orwell   |
 | ```]russell```   | Bertrand Russell   |
-| ```]thompson```   | E.P. Thompson   |
 | ```]veblen```  | Thorstein Veblen   |
