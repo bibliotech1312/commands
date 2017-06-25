@@ -20,9 +20,13 @@ These commands explain ideology and theory.
 | ```]Autonomism```   | General Info about Autonomism   |
 | ```]Bordigism```   | General Info about Bordigism   |
 | ```]Communism```   | General Info about Communism   |
+| ```]Communalism```   | General Info about Communalism   |
+| ```]Communization```   | General Info about Communization   |
 | ```]Deleonism```   | General Info about De Leonism   |
+| ```]Demsoc```   | General Info about Democratic Socialism   |
 | ```]Green```   | General Info about Green Anarchism   |
 | ```]Insurrection```   | General Info about Insurrectionary Anarchism  |
+| ```]IndAnarchism```   | General Info about Indivualist Anarchism  |
 | ```]Leftcom```   | General Info about Left Communism  |
 | ```]Luxemburgism```   | General Info about Luxemburgism  |
 | ```]Marxism```  | General Info about Marxism   |
@@ -58,6 +62,7 @@ These commands explain ideology and theory.
 | ```]foucault```   | Michel Foucault   |
 | ```]goldman```  | Emma Goldman   |
 | ```]goodwin```  | William Godwin   |
+| ```]graeber```  | David Graeber   |
 | ```]haywood```  | Bill Haywood   |
 | ```]kropotkin```   | Peter Kropotkin   |
 | ```]lum```   | Dyer Lum   |
@@ -96,6 +101,7 @@ These commands explain ideology and theory.
 | ```]fanon```  | Frantz Fanon   |
 | ```]gorter```  | Herman Gorter   |
 | ```]gramsci```   | Antonio Gramsci   |
+| ```]haldane```   | J.B.S Haldane   |
 | ```]harvey```   | David Harvey   |
 | ```]kautsky```   | Karl Kautsky   |
 | ```]lenin```   | Vladimir Lenin   |
@@ -123,3 +129,12 @@ These commands explain ideology and theory.
 | ```]orwell```  | George Orwell   |
 | ```]russell```   | Bertrand Russell   |
 | ```]veblen```  | Thorstein Veblen   |
+
+
+### Misc
+
+| Command | Function |
+| -------- | -------- |
+| ```]camus```   | Albert Camus   |
+| ```]tressell```  | Robert Tressell   |
+
