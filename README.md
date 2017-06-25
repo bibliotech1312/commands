@@ -26,7 +26,7 @@ These commands explain ideology and theory.
 | ```]Demsoc```   | General Info about Democratic Socialism   |
 | ```]Green```   | General Info about Green Anarchism   |
 | ```]Insurrection```   | General Info about Insurrectionary Anarchism  |
-| ```]IndAnarchism```   | General Info about Indivualist Anarchism  |
+| ```]IndAnarchism```   | General Info about Individualist Anarchism  |
 | ```]Leftcom```   | General Info about Left Communism  |
 | ```]Luxemburgism```   | General Info about Luxemburgism  |
 | ```]Marxism```  | General Info about Marxism   |
